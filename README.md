@@ -1,6 +1,6 @@
 ## Olá!!! Eu sou o Lucas Braga
 
-- 🌱 Estou estudando o front-end
+- 🌱 Estudante de front-end
 - 🧑🏻 Pronoums Ele/Dele
 
 <div align="center">
