@@ -21,4 +21,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devlucasbraga&layout=compact)](https://github.com/devlucasbraga/github-readme-stats)
 
-Estudante de análise e desenvolvimento de sistemas, apaixonado por tecnologia pelo que ela pode proporcionar e mudar vidas através da programação.
+Apaixonado por tecnologia pelo que ela pode proporcionar e mudar vidas através da programação.
